@@ -15,7 +15,7 @@ Each project focuses on a real-world business problem and is supported by an int
 
 4. **Crime Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiMWIyY2EyMTgtOTcxMi00NzRmLWE2MzMtOTA5ZWVmZjRjMzI3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-5. **Customer Satisfaction Analysis** ([Click here](ADD_POWER_BI_LINK_HERE))
+5. **Customer Satisfaction Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiY2JmZmJjN2QtMmQ5Yy00YjI2LTlhYTAtOGJmOTE2MzU3MTQxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
 6. **Email Marketing Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiYTFhZWVlM2UtZjVlNS00MDRkLWE4NTUtMjQ4NjZkMDdjZmEwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
