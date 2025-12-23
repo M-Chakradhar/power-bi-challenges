@@ -1,5 +1,3 @@
-# data-challenges-projects
-
 ## Power BI Projects
 
 This repository contains my Power BI data analysis projects.  
@@ -7,40 +5,31 @@ Each project focuses on a real-world business problem and is supported by an int
 
 ---
 
-## Project List
+### Project List
 
-1. **Airline Delays Analysis**  
-   Power BI Report: <ADD_POWER_BI_LINK_HERE>
+1. **Airline Delays Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiNmE3NzZhNjgtMzY4OS00MDAwLTlhZmQtN2UwM2FlMWQyM2IyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-2. **Christmas Sales Analysis**  
-   Power BI Report: <ADD_POWER_BI_LINK_HERE>
+2. **Christmas Sales Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiNmI2MzkzZmItNWQ4MC00Y2MzLWI3YjEtYjc3YWY5MDk1ODk2IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-3. **Confectionery Market Analysis**  
-   Power BI Report: <ADD_POWER_BI_LINK_HERE>
+3. **Confectionery Market Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiNzczMTQ4ZmYtYjZiMS00NGM3LTlmODQtYmY2YTRjZDRkOTgxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-4. **Crime Analysis**  
-   Power BI Report: <ADD_POWER_BI_LINK_HERE>
+4. **Crime Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiMWIyY2EyMTgtOTcxMi00NzRmLWE2MzMtOTA5ZWVmZjRjMzI3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-5. **Customer Satisfaction Analysis**  
-   Power BI Report: <ADD_POWER_BI_LINK_HERE>
+5. **Customer Satisfaction Analysis** ([Click here](ADD_POWER_BI_LINK_HERE))
 
-6. **Email Campaign Analysis**  
-   Power BI Report: <ADD_POWER_BI_LINK_HERE>
+6. **Email Marketing Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiYTFhZWVlM2UtZjVlNS00MDRkLWE4NTUtMjQ4NjZkMDdjZmEwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-7. **Logistics Analysis**  
-   Power BI Report: <ADD_POWER_BI_LINK_HERE>
+7. **Email Communication Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiZTQ2YmFkMDktM2Q1OC00NWUwLTg0NjEtYzg4MzFjNzRlYWM0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-8. **Merchandise Sales Analysis**  
-   Power BI Report: <ADD_POWER_BI_LINK_HERE>
+8. **Logistics Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiYmVhOTZmODQtM2M2ZC00NTQxLWIyODgtOWE4MGJhMGM2NzljIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-9. **Retail Mobile Sales Analysis**  
-   Power BI Report: <ADD_POWER_BI_LINK_HERE>
+9. **Merchandise Sales Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiNTljZGMzZTItZDkwMC00MzJjLWE2YjktMDlhNjhiYjM0YWY3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-10. **Supply Chain Analysis**  
-    Power BI Report: <ADD_POWER_BI_LINK_HERE>
+10. **Retail Mobile Sales Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiYzU4YmJmZTUtZDRjZS00NTk0LWIyMzEtZTA1ZTE2Zjc2ZjBmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-11. **Xmas Retail & Marketing Analysis**  
-    Power BI Report: <ADD_POWER_BI_LINK_HERE>
+11. **Supply Chain Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiYzhjMjdjZmUtNjRmNC00NTFiLWFjOTctZDBhMzQ5NWRhZTExIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
+
+12. **Xmas Retail & Marketing Analysis** ([Click here](ADD_POWER_BI_LINK_HERE))
 
 ---
 
