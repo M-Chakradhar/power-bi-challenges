@@ -29,8 +29,12 @@ Each project focuses on a real-world business problem and is supported by an int
 
 11. **Supply Chain Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiYzhjMjdjZmUtNjRmNC00NTFiLWFjOTctZDBhMzQ5NWRhZTExIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
-12. **Xmas Retail & Marketing Analysis** ([In Progress](ADD_POWER_BI_LINK_HERE))
+12. **Supply Chain Analysis** ([Click here](https://app.powerbi.com/view?r=eyJrIjoiZWM3N2ZkOTItZjU3NS00NGI3LThmZTAtOTI5ZmY2ZDBjYzJkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 
+
+
+
+https://app.powerbi.com/view?r=eyJrIjoiZWM3N2ZkOTItZjU3NS00NGI3LThmZTAtOTI5ZmY2ZDBjYzJkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 ---
 
 **Author:** Chakradhar M
